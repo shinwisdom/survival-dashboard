@@ -1,2 +1,0 @@
-jupyter labextension install @jupyter-voila/jupyterlab-preview
-jupyter serverextension enable voila --sys-prefix
